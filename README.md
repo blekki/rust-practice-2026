@@ -28,4 +28,6 @@ cargo run
 
 ## PS:
 
+I added a LICENSE to protect my repo out the other students.
+
 You can find the origin repo author of the template I used by the next [URL](https://github.com/djnzx/rust-practice).
